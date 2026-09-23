@@ -1,5 +1,4 @@
 C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Asztali\SqLiteVedettAllatok\SqLiteVedettAllatok\bin\Debug\net10.0-windows\SqLiteVedettAllatok.exe
-C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Asztali\SqLiteVedettAllatok\SqLiteVedettAllatok\bin\Debug\net10.0-windows\vedett.db
 C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Asztali\SqLiteVedettAllatok\SqLiteVedettAllatok\bin\Debug\net10.0-windows\SqLiteVedettAllatok.deps.json
 C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Asztali\SqLiteVedettAllatok\SqLiteVedettAllatok\bin\Debug\net10.0-windows\SqLiteVedettAllatok.runtimeconfig.json
 C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Asztali\SqLiteVedettAllatok\SqLiteVedettAllatok\bin\Debug\net10.0-windows\SqLiteVedettAllatok.dll
@@ -47,3 +46,4 @@ C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Asztali\SqLiteVedettAllatok\SqLiteV
 C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Asztali\SqLiteVedettAllatok\SqLiteVedettAllatok\obj\Debug\net10.0-windows\SqLiteVedettAllatok.pdb
 C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Asztali\SqLiteVedettAllatok\SqLiteVedettAllatok\obj\Debug\net10.0-windows\SqLiteVedettAllatok.genruntimeconfig.cache
 C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Asztali\SqLiteVedettAllatok\SqLiteVedettAllatok\obj\Debug\net10.0-windows\ref\SqLiteVedettAllatok.dll
+C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Asztali\SqLiteVedettAllatok\SqLiteVedettAllatok\obj\Debug\net10.0-windows\SqLiteVedettAllatok.sourcelink.json

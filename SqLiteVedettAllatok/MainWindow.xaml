@@ -7,6 +7,19 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <DataGrid x:Name="dataGrid" AutoGenerateColumns="True" />
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="4*" />
+        </Grid.ColumnDefinitions>
+        
+        <DataGrid x:Name="dataGrid" Grid.Column="0" SelectionMode="Extended" AutoGenerateColumns="True" SelectionUnit="FullRow"/>
+
+        <Button Width="200px" Grid.Column="1" Height="30px" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,10,0,0" Click="deleteBtn">Adat törlése</Button>
+
+        <ComboBox x:Name="osztalyCbx" Grid.Column="1" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="osztalyCbx_SelectionChanged"/>
+        <Label x:Name="avgPriceLb" Grid.Column="1" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top"/>
+        <Button Width="200px" Grid.Column="1" Height="30px" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10,10,0,30" Click="resetBtn">Visszaállítás</Button>
+        <Button Width="200px" Grid.Column="1" Height="30px" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10,50,0,0" Click="updateBtn">Drága állat</Button>
+        <Label x:Name="maxPriceLb" Grid.Column="1" HorizontalAlignment="Right" Margin="10,130,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
